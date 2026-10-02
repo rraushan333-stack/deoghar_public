@@ -55,6 +55,10 @@
   min-width: 0;
 }
 
+/* =========================
+   LOGO IMAGE
+========================= */
+
 .logo-mark {
   width: 37px;
   height: 42px;
@@ -63,40 +67,27 @@
   align-items: center;
   justify-content: center;
 
-  position: relative;
-
-  color: #292851;
-
   flex-shrink: 0;
+
+  overflow: hidden;
 }
 
-.logo-mark::before {
-  content: "";
-
-  position: absolute;
-
-  width: 27px;
+.logo-mark img {
+  width: 34px;
   height: 37px;
 
-  background: #292851;
+  display: block;
 
-  border-radius: 65% 25% 65% 15%;
+  object-fit: contain;
 
-  transform: rotate(25deg);
+  /* No shadow */
+  box-shadow: none;
+  filter: none;
 }
 
-.logo-mark span {
-  position: relative;
-  z-index: 1;
-
-  color: #f7f3eb;
-
-  font-family: Georgia, serif;
-
-  font-size: 20px;
-
-  transform: rotate(-10deg);
-}
+/* =========================
+   LOGO TEXT
+========================= */
 
 .logo-text {
   font-family: Georgia, "Times New Roman", serif;
@@ -142,7 +133,7 @@
 }
 
 /* =========================
-   LOGIN BUTTON
+   LOGIN / APPLY BUTTON
 ========================= */
 
 .apply-btn {
@@ -330,15 +321,20 @@
     height: 37px;
 
     flex-shrink: 0;
+
+    overflow: hidden;
   }
 
-  .logo-mark::before {
-    width: 24px;
-    height: 32px;
-  }
+  .logo-mark img {
+    width: 31px;
+    height: 34px;
 
-  .logo-mark span {
-    font-size: 17px;
+    object-fit: contain;
+
+    display: block;
+
+    box-shadow: none;
+    filter: none;
   }
 
   .logo-text {
@@ -511,13 +507,9 @@
     height: 35px;
   }
 
-  .logo-mark::before {
-    width: 23px;
-    height: 31px;
-  }
-
-  .logo-mark span {
-    font-size: 16px;
+  .logo-mark img {
+    width: 29px;
+    height: 32px;
   }
 
   .menu-toggle {
@@ -544,13 +536,9 @@
     height: 33px;
   }
 
-  .logo-mark::before {
-    width: 21px;
-    height: 29px;
-  }
-
-  .logo-mark span {
-    font-size: 15px;
+  .logo-mark img {
+    width: 27px;
+    height: 30px;
   }
 
   .menu-toggle {

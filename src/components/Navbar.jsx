@@ -17,7 +17,7 @@ function Navbar() {
         ========================= */}
         <a href="/#home" className="logo" onClick={closeMenu}>
           <div className="logo-mark">
-            <span>D</span>
+            <img src="/logo.png" alt="School Logo" />
           </div>
 
           <span className="logo-text">Deoghar Public School</span>

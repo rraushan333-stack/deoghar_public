@@ -140,8 +140,8 @@ const documents = [
   },
   {
     id: 18,
-    title: "Rte Details",
-    link: "/documents/rte.pdf",
+    title: "Land Paper Details",
+    link: "/documents/land-paper.pdf",
   },
 ];
 
