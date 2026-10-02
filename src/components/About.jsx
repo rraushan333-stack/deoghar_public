@@ -28,7 +28,7 @@ function About() {
         {/* Content */}
         <div className="about-content">
           <h2>
-            A dream converted into reality.
+            A dream converted into reality and,
             <br />
             <span>grounded by Rajeev Ranjan Priyadarshi.</span>
           </h2>

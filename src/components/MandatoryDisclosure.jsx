@@ -56,7 +56,7 @@ const documents = [
   {
     id: 1,
     title: "Societies/Trust/Company Registration Certificate",
-    link: "/documents/registration-certificate.pdf",
+    link: "/documents/trustdeed.pdf",
   },
   {
     id: 2,
@@ -137,6 +137,11 @@ const documents = [
     id: 17,
     title: "Students Details",
     link: "/documents/students-details.pdf",
+  },
+  {
+    id: 18,
+    title: "Rte Details",
+    link: "/documents/rte.pdf",
   },
 ];
 
