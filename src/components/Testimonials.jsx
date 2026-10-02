@@ -4,27 +4,19 @@ const testimonials = [
   {
     initials: "SK",
     name: "Sangeeta & Manoj Kumar",
-    text: `Watching our daughter flourish here has been remarkable.
-    She arrived shy and uncertain — she leaves as student council
-    president and an IB diploma holder. The teachers genuinely know
-    each child.`,
+    text: `Watching our daughter flourish here has been truly wonderful. She joined the school as a shy and uncertain child — today, she is confident, responsible, and actively involved in school activities. The teachers genuinely understand and support every child.`,
   },
 
   {
     initials: "AS",
     name: "Abhishek Sinha",
-    text: `The STEM programme gave me a foundation I carry into my
-    engineering degree every day. The robotics lab alone was worth
-    it — I was coding autonomous vehicles at age 15!`,
+    text: `Our son has grown tremendously since joining the school. The teachers are caring, supportive, and always encourage students to do their best. We are very happy to see his confidence and interest in learning grow every day.`,
   },
 
   {
     initials: "PJ",
     name: "Poonam Jha",
-    text: `As a parent who transferred two children from overseas
-    schools, I was anxious. Within one term, both were thriving.
-    The pastoral care is exceptional — they treat families as
-    partners.`,
+    text: `Our daughter has developed a real love for learning since joining the school. The activities, guidance, and friendly atmosphere have helped her become more confident and creative. We truly appreciate the efforts of the teachers and school management.`,
   },
 ];
 

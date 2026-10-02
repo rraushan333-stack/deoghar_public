@@ -28,22 +28,22 @@ function About() {
         {/* Content */}
         <div className="about-content">
           <h2>
-            A Legacy of
+            A dream converted into reality.
             <br />
-            <span>Purposeful Learning.</span>
+            <span>grounded by Rajeev Ranjan Priyadarshi.</span>
           </h2>
 
           <p>
-            Founded in 1998 by a group of educators who believed school should
+            Founded in 2014 by a group of educators who believed school should
             be a place of genuine discovery, SchoolLanding has grown into one of
             the region's most respected institutions — known not just for exam
             results, but for the quality of people it graduates.
           </p>
 
           <p>
-            Our 48-acre campus, 120 dedicated faculty members, and decades of
-            refined pedagogy create an environment where every student finds
-            their voice, their discipline, and their direction.
+            Our big campus, dedicated faculty members, and decades of refined
+            pedagogy create an environment where every student finds their
+            voice, their discipline, and their direction.
           </p>
         </div>
       </div>
